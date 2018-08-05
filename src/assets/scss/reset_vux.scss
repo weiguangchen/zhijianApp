@@ -1,0 +1,17 @@
+.weui-cells{
+  margin-top: 0;
+}
+
+.yd-checkbox-text,.yd-radio-text {
+  line-height: 22px;
+}
+
+
+.page{
+  .weui-btn {
+    border-radius: 0;
+    &:after {
+      border-radius: 0;
+    }
+  }
+}
